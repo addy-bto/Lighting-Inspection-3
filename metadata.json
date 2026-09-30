@@ -1,0 +1,6 @@
+{
+  "name": "BillboardOps — Billboard Maintenance & Electrical Inventory System",
+  "description": "A web application to track electrical inventory, issue billboard damage tickets, collect contractor completion reports with photos and e-signatures, and generate downloadable PDF reports for finance and client status updates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
